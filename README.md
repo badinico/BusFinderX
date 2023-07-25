@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="insertar_aqui_logo_del_proyecto.png" alt="Logo del Proyecto">
-</p>
-
 # 🚍 BusCazador - Rastreo de Buses en Tiempo Real 🕐
 
 BusCazador es un script en Python que te permite rastrear los buses en tiempo real cercanos a un paradero específico 🚌🚏. Utiliza la API de transporte público para obtener información actualizada sobre los buses y su tiempo estimado de llegada al paradero. ¡Mantente informado sobre los horarios de llegada de los buses en tu parada favorita! 🚍🕒
